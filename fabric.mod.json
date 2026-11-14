@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "IROOOOOON!!!!"
+    ],
+    "environment": "*",
+    "id": "iron_man",
+    "version": "1.0.0",
+    "name": "Ion man Palladium",
+    "description": "A experience of iron man of the marvel",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

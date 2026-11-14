@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "iron_man",
+        "pack_format": 15,
+        "description": "A experience of iron man of the marvel",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}

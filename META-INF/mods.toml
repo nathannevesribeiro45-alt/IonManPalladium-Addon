@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="iron_man"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Ion man Palladium"
+description='''
+A experience of iron man of the marvel
+'''
+
+[[dependencies.iron_man]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.1,)"
+ordering = "NONE"
+side = "BOTH"
